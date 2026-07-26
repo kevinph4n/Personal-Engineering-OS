@@ -12,23 +12,18 @@ A practical workflow for building AI-powered products in hackathons using **pret
 - Target users
 - What should the AI predict or detect?
 
-Example:
-
-> Detect illegal waste dumping using surveillance cameras.
+> Example: Detect illegal waste dumping using surveillance cameras.
 
 ---
 
 ## Design the AI pipeline
-
 Determine:
-
 - Input
 - Output
 - Deployment platform
 - Candidate datasets
 - Candidate pretrained models
-
-AI tools (ChatGPT / Claude) can help compare models and suggest suitable architectures.
+-> AI tools (ChatGPT / Claude) can help compare models and suggest suitable architectures.
 
 ---
 
@@ -49,9 +44,7 @@ Augment
     ↓
 Train / Validation / Test Split
 ```
-
 AI can help:
-
 - Recommend public datasets
 - Suggest augmentation techniques
 - Detect class imbalance
@@ -61,10 +54,8 @@ AI can help:
 
 # 3. Model Selection
 
-Instead of training from scratch, choose a **pretrained model**.
-
+Instead of training from scratch, choose a **pretrained model**
 Example requirements:
-
 - Real-time inference
 - Small model size
 - High precision
@@ -81,9 +72,7 @@ Comparison
       ↓
 Select Pretrained Model
 ```
-
 Examples:
-
 - YOLO11
 - EfficientNet
 - MobileNet
@@ -93,9 +82,7 @@ Examples:
 ---
 
 # 4. Fine-tuning
-
 Most hackathon projects fine-tune pretrained models instead of training from scratch.
-
 Typical workflow:
 
 ```
@@ -108,43 +95,31 @@ Fine-tune
 Best Checkpoint
 ```
 
-AI cannot train the model for you, but it can help with:
-
+**AI cannot train the model for you**, but it can help with:
 - Explaining hyperparameters
-  - epochs
-  - learning rate
-  - batch size
-  - weight decay
-
++ epochs
++ learning rate
++ batch size
++ weight decay
 - Interpreting training logs
-
 - Identifying overfitting / underfitting
-
 - Suggesting improvements
-
 - Error analysis
-
-Example prompts:
-
-- "Validation loss increases while training loss decreases. Why?"
-- "The model often misses small objects. Possible causes?"
+- Example:
++ "Validation loss increases while training loss decreases. Why?"
++ "The model often misses small objects. Possible causes?"
 
 ---
 
 # 5. Evaluation
-
 Evaluate the fine-tuned model.
-
 Typical metrics:
-
 - Accuracy
 - Precision
 - Recall
 - F1-score
 - mAP (Object Detection)
-
 AI can help:
-
 - Interpret confusion matrices
 - Explain precision-recall curves
 - Analyze failure cases
@@ -153,9 +128,7 @@ AI can help:
 ---
 
 # 6. Deployment
-
 Convert the trained model into a usable product.
-
 Typical workflow:
 
 ```
@@ -171,27 +144,21 @@ Deploy
 ```
 
 Common tools:
+- Backend:
++ FastAPI
++ Flask
+- Frontend:
++ Streamlit
++ Gradio
++ React
 
-Backend
-
-- FastAPI
-- Flask
-
-Frontend
-
-- Streamlit
-- Gradio
-- React
-
-Deployment
-
-- Render
-- Vercel
-- Railway
-- Hugging Face Spaces
+- Deployment:
++ Render
++ Vercel
++ Railway
++ Hugging Face Spaces
 
 AI can help generate:
-
 - FastAPI boilerplate
 - Streamlit / Gradio demo
 - REST API structure
@@ -201,11 +168,8 @@ AI can help generate:
 ---
 
 # 7. Documentation
-
 Document the engineering process.
-
 Include:
-
 - Problem statement
 - Dataset
 - Model selection
@@ -224,27 +188,6 @@ Typical outputs:
 
 ---
 
-# General Workflow
-
-```
-Problem
-    ↓
-Planning
-    ↓
-Dataset Preparation
-    ↓
-Select Pretrained Model
-    ↓
-Fine-tune
-    ↓
-Evaluation
-    ↓
-Deployment
-    ↓
-Documentation
-```
-
----
 
 # Notes
 
