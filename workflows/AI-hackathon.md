@@ -8,8 +8,8 @@ A practical workflow for building AI-powered products in hackathons using **pret
 
 ## Define the problem
 
-- What problem are we solving?
-- Who are the target users?
+- What problem?
+- Target users
 - What should the AI predict or detect?
 
 Example:
