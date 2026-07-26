@@ -16,7 +16,7 @@
 
 ---
 
-## 4. Training (no AI agent can do this)
+## 4. Training (no AI agent can do this) (or if you use trained models then fine-tune them)
 **- Although no AI can train model for you. AI agents might help:**
 + Explain hyperparameters (epochs, batch, lr, weight_decay,...)
 + Interpret logs (Training log:... What is that?)
