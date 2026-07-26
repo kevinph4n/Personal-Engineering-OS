@@ -1,41 +1,253 @@
-# AI Projects Workflow
+# AI Project Workflow (Hackathon Edition)
 
-## 1. Planning
-- Identify the **problem**: need to detect X using Y
-- Find suitable **model, dataset, deploytment pipeline** (using AI or reddit)
+A practical workflow for building AI-powered products in hackathons using **pretrained models + fine-tuning**.
 
 ---
 
-## 2. Datasets
-- Collect -> Explore -> Clean -> Augment -> Split (Use AI for public dataset recommendations)
+# 1. Planning
+
+## Define the problem
+
+- What problem are we solving?
+- Who are the target users?
+- What should the AI predict or detect?
+
+Example:
+
+> Detect illegal waste dumping using surveillance cameras.
 
 ---
 
-## 3. Selecting Models
-- Requirements (e.g. real-time, <50 MB, high precision,...) -> Candidate models -> Compare these models -> Decide the model used for the project.
+## Design the AI pipeline
+
+Determine:
+
+- Input
+- Output
+- Deployment platform
+- Candidate datasets
+- Candidate pretrained models
+
+AI tools (ChatGPT / Claude) can help compare models and suggest suitable architectures.
 
 ---
 
-## 4. Training (no AI agent can do this) (or if you use trained models then fine-tune them)
-**- Although no AI can train model for you. AI agents might help:**
-+ Explain hyperparameters (epochs, batch, lr, weight_decay,...)
-+ Interpret logs (Training log:... What is that?)
-+ Suggest improvements while training (Validation loss increases. Why?)
-+ Error Analysis (Model often misses small objects. Why?)
+# 2. Dataset Preparation
+
+Typical workflow:
+
+```
+Collect
+    ↓
+Explore
+    ↓
+Clean
+    ↓
+Annotate (if needed)
+    ↓
+Augment
+    ↓
+Train / Validation / Test Split
+```
+
+AI can help:
+
+- Recommend public datasets
+- Suggest augmentation techniques
+- Detect class imbalance
+- Explain dataset quality issues
 
 ---
 
-## 5. Evaluation
-- Interpret (Confusion Matrix, Precision Recall Curve,...)
-- Explain (Why recall is low?,...)
-- Suggest Improvements
+# 3. Model Selection
+
+Instead of training from scratch, choose a **pretrained model**.
+
+Example requirements:
+
+- Real-time inference
+- Small model size
+- High precision
+- Edge-device compatibility
+
+Workflow:
+
+```
+Requirements
+      ↓
+Candidate Models
+      ↓
+Comparison
+      ↓
+Select Pretrained Model
+```
+
+Examples:
+
+- YOLO11
+- EfficientNet
+- MobileNet
+- RT-DETR
+- SAM2
 
 ---
 
-## 6. Deployment
-- Save the model -> Inference API (AI could help generating FastAPI wrapper) -> Frontend (AI could help generating Streamlit/Gradio demo) -> Deploy
+# 4. Fine-tuning
+
+Most hackathon projects fine-tune pretrained models instead of training from scratch.
+
+Typical workflow:
+
+```
+Pretrained Model
+        ↓
+Custom Dataset
+        ↓
+Fine-tune
+        ↓
+Best Checkpoint
+```
+
+AI cannot train the model for you, but it can help with:
+
+- Explaining hyperparameters
+  - epochs
+  - learning rate
+  - batch size
+  - weight decay
+
+- Interpreting training logs
+
+- Identifying overfitting / underfitting
+
+- Suggesting improvements
+
+- Error analysis
+
+Example prompts:
+
+- "Validation loss increases while training loss decreases. Why?"
+- "The model often misses small objects. Possible causes?"
 
 ---
 
-## 7. Finishing with Tech Reports/README on github
+# 5. Evaluation
 
+Evaluate the fine-tuned model.
+
+Typical metrics:
+
+- Accuracy
+- Precision
+- Recall
+- F1-score
+- mAP (Object Detection)
+
+AI can help:
+
+- Interpret confusion matrices
+- Explain precision-recall curves
+- Analyze failure cases
+- Suggest improvements
+
+---
+
+# 6. Deployment
+
+Convert the trained model into a usable product.
+
+Typical workflow:
+
+```
+Best Model
+      ↓
+Inference Script
+      ↓
+REST API
+      ↓
+Frontend
+      ↓
+Deploy
+```
+
+Common tools:
+
+Backend
+
+- FastAPI
+- Flask
+
+Frontend
+
+- Streamlit
+- Gradio
+- React
+
+Deployment
+
+- Render
+- Vercel
+- Railway
+- Hugging Face Spaces
+
+AI can help generate:
+
+- FastAPI boilerplate
+- Streamlit / Gradio demo
+- REST API structure
+- Dockerfile
+- README
+
+---
+
+# 7. Documentation
+
+Document the engineering process.
+
+Include:
+
+- Problem statement
+- Dataset
+- Model selection
+- Fine-tuning strategy
+- Evaluation results
+- Deployment architecture
+- Challenges
+- Lessons learned
+- Future improvements
+
+Typical outputs:
+
+- GitHub README
+- Technical Report
+- Presentation Slides
+
+---
+
+# General Workflow
+
+```
+Problem
+    ↓
+Planning
+    ↓
+Dataset Preparation
+    ↓
+Select Pretrained Model
+    ↓
+Fine-tune
+    ↓
+Evaluation
+    ↓
+Deployment
+    ↓
+Documentation
+```
+
+---
+
+# Notes
+
+- Focus on **building a working product**, not training the most complex model.
+- Fine-tuning pretrained models is the standard approach for most AI hackathons.
+- AI assistants accelerate development, but engineering decisions remain the responsibility of the team.
