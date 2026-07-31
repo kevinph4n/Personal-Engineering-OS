@@ -115,7 +115,7 @@ Global Python remains unchanged.
 ## Folder Structure
 
 ```
-EcoScan/
+project_folder/
 
 ├── backend/
 │   ├── .venv/
@@ -197,7 +197,7 @@ After activating `.venv`:
 ```
 Terminal
     ↓
-EcoScan/.venv/python.exe
+project_folder/.venv/python.exe
     ↓
 Global Python
 ```
@@ -245,26 +245,6 @@ Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
-
----
-
-## Best Practices
-
-✓ Create one virtual environment per project.
-
-✓ Always activate `.venv` before coding.
-
-✓ Commit `requirements.txt`.
-
-✓ Never commit `.venv`.
-
-✓ Prefer using
-
-```bash
-py -m pip
-```
-
-instead of just `pip` to ensure the correct Python interpreter is used.
 
 ---
 
