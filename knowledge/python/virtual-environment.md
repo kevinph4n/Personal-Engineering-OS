@@ -24,7 +24,7 @@ Both projects share the same Python installation.
 → Updating one project may break another.
 
 Using virtual environments:
-
+```
 Project A
 ├── .venv
 │   ├── Python
@@ -36,7 +36,7 @@ Project B
 │   ├── Python
 │   ├── FastAPI 0.95
 │   └── ...
-
+```
 Projects are completely isolated.
 
 ---
