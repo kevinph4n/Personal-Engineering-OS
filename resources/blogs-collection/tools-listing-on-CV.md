@@ -1,4 +1,4 @@
-## Should You List Every Tool on Your CV, or Only the Ones You Actually Know?
+# Should You List Every Tool on Your CV, or Only the Ones You Actually Know?
 > Trọng Huy Dec (i have no idea who he is)
 
 Last night, I was reviewing a fresher Data Engineer CV.
