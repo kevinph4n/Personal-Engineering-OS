@@ -74,3 +74,79 @@ NHÓM NGÀNH MÁY TÍNH (Để rõ hơn cho phân biệt thì anh chia như sau 
 - Nó khá toàn năng á. Xu hướng AI bây giờ mới chuyển dịch sang Physical AI nữa
 
 ---
+# ENGLISH VERSION
+---
+## COMPUTER-RELATED MAJORS
+- Before going deeper into which major to choose, you should first know how many majors there are in computing (there are probably some less popular ones that I don't even know about =))) )
+
+```
+COMPUTER-RELATED MAJORS (I split them this way to make the differences clearer instead of just grouping everything into Software / Hardware)
+|
+├── Software
+|   ├── Computer Science (probably the hottest one right now) (CS)
+|   ├── Software Engineering (SE, and from what I've seen, the admission score is usually lower than CS)
+|   ├── Information Systems (IS, UIT has an advanced program for this, it's pretty good and also easier to get into)
+|
+├── Hardware/System
+|   ├── Computer Engineering (CE, the admission score is usually around the same as Software Engineering)
+|   ├── Embedded Systems (basically things like Arduino, ESP32, etc. I actually started from this before getting into C++ → Python)
+|   ├── IoT
+|
+├── AI/DATA
+|   ├── Data Science (you can kind of think of the Math-Informatics major I'm studying as related to this =))) I know a really talented senior in this field. The admission score is pretty damn high)
+|   ├── AI (you probably already know this one) (UIT's admission score basically hit the ceiling this year, although part of that is because UIT's admission system is a bit more favorable. Still, UIT's AI program is really good)
+```
+## CHOOSING A MAJOR
+- I'll prioritize the Software group first since, in general, it's more popular.
+
+### Computer Science
+- There's a reason this major is so popular. Basically, it's one of the majors that gives you the strongest foundation in computing.
+- OS, networks, DSA, AI/ML, SE, ...
+- Choose this if you genuinely want to dig deep into the fundamentals of computers. Another huge advantage is that after graduation, you're still very flexible when it comes to choosing your career path.
+- The downside is that at UIT, HCMUS, and HCMUT, CS is usually one of the highest-scoring majors. So you definitely need some safer backup choices =)))) But if your score is high enough, still put it as NV1/NV2.
+
+### Software Engineering
+- You study things like DevOps, software design, CI/CD, DSA, ...
+- It's more focused on building software products compared to CS.
+- At most universities in Vietnam, the admission score is usually lower than CS, so this is a pretty realistic choice for something like NV4/NV5.
+
+### Information Systems
+- It's basically a combination of Technology + Business + Organization.
+- You study databases, data, business, DSA, analysis, ...
+- It's not necessarily as hardcore in terms of coding, so if you like the business + technology direction, this is a pretty good choice.
+- If you choose this major, I'd strongly recommend trying to get into UIT. Their advanced program is pretty solid.
+
+### Data Science
+- There's a senior I really admire who studies this and she's insanely good. She even got 4th place internationally in a WorldQuant competition, so I looked into this field partly because of her.
+- It's basically Math + Statistics + Programming + Data.
+- You study Python (personally, I think Python is basically a must in this field compared to most other programming languages), SQL, AI/ML, Data, ...
+Choose this if you're genuinely interested in Math + Probability + Statistics. Back in school, probability was basically the only part of math I actually enjoyed, because it's insanely practical.
+- The Math-Informatics major I'm studying also has Data Science as one of its three specializations, so you can look into the Mathematics / Math-Informatics programs at HCMUS as well.
+
+### AI
+- You probably already know this one =))) Math + CS + Statistics.
+- Personally, I feel like choosing AI as a major can be a bit trend-driven. AI is currently at the center of everything and evolving insanely fast. If you study it, you'll basically need to keep updating your knowledge constantly.
+- It's mainly focused on ML, and some programs also offer specializations like Computer Vision, ...
+- The admission score is crazy high. Without some serious national/international achievements, even being the valedictorian might still be stressful =)))
+
+### Computer Engineering
+- This is actually one of the majors I regret not putting higher =)))) UIT's CE admission score looked insanely reasonable and I didn't put it (although I would've gotten into Math-Informatics anyway, which makes the whole thing kind of hilarious).
+- It's a pretty interesting combination of CS + EE (Electrical & Electronics Engineering). You basically study both Software + Hardware.
+- You might study Embedded Systems, C++, OS, DSA, ... so it's pretty broad.
+- If you're interested in robotics, IoT, chips, this is a really good option. The nice thing is that the admission score is often more realistic. For example, at UIT, I was around 15 points above the cutoff on a 100-point scale.
+
+### Embedded Systems
+- When you go deeper into the hardware side, there's Embedded Systems.
+- You study microcontrollers (ESP32, Arduino, ...), C++, firmware, circuits, and hardware-related stuff in general @@
+- It's kind of similar to Computer Engineering, but more focused on low-level programming + hardware, with C/C++ being the main languages.
+- You can try it out before committing. With around 400–600k VND, you can already build an RC car using an ESP32/Arduino =)))) I've built three of them before.
+
+### Cybersecurity
+- Network, cryptography, OS, web security, ...
+- HCMUS has a cybersecurity club too =)))) and those guys are insanely hardcore about Linux.
+- If you've watched Mr. Robot and thought it was cool, this might be the closest thing to a life philosophy =))))
+
+### Robotics Engineering
+- If you decide to study this, I'd strongly recommend HCMUT =))))
+- Mechanical Engineering + Electrical & Electronics + Embedded Systems + CS + AI
+- It's a pretty broad and versatile field. And with AI increasingly moving toward Physical AI, robotics is becoming even more interesting.
