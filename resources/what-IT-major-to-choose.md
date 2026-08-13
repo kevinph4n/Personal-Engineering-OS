@@ -24,3 +24,20 @@ NHÓM NGÀNH MÁY TÍNH (Để rõ hơn cho phân biệt thì anh chia như sau 
 - Anh sẽ ưu tiên nhóm ngành bên mảng Software trước nha do nhìn chung thì nó được chuộng hơn
 
 ### Computer Science
+- Ngành này nó hot là có nguyên nhân hết á. Do bản chất nó là ngành với cái nền tảng computing nhất.
+- OS, networks, DSA, AI/ML, SE, ...
+- Chọn nếu em muốn thực sự đào sâu vào bản chất của máy tính. Với lại học xong thì em linh hoạt trong việc chọn nghề nghiệp lắm.
+- Bị cái UIT, HCMUS, HCMUT thì ngành này điểm thuộc dạng top luôn. Nên phải có lựa chọn bọc lót khác rùi =)))) Nma điểm cao thì cứ đặt nv1 nv2 nha
+
+### Software Engineering
+- học về DevOps, Software design, CI/CD, DSA,...
+- Nó thiên về build sản phẩm hơn so với CS
+- Đa số trường ở VN thì ngành này điểm thường thấp hơn CS, đáng đặt làm nguyện vọng thực tế (nv4 nv5) đồ á em
+
+### Information Systems
+- kết hợp Technology + Business + Organization
+- Học về database, Data, business, DSA, analysis,...
+- Nó không hẳn hardcore về code, nên nếu em thích hướng kiểu business + technology thì này oke á. Mà nếu chọn cái này thì cố vô UIT nha. Có ct tiên tiến dạy ngon
+
+### Data Science
+- 
