@@ -40,4 +40,37 @@ NHÓM NGÀNH MÁY TÍNH (Để rõ hơn cho phân biệt thì anh chia như sau 
 - Nó không hẳn hardcore về code, nên nếu em thích hướng kiểu business + technology thì này oke á. Mà nếu chọn cái này thì cố vô UIT nha. Có ct tiên tiến dạy ngon
 
 ### Data Science
-- 
+- Ngành này anh ngưỡng mộ 1 chị học kinh lắm. Chị đi thi cuộc thi Quant của WorldQuant đồ đạt giải 4 quốc tế lun. Nên anh cũng tìm hiểu để tham khảo
+- nó là Math + Statistics + Programming + Data
+- Học về python (kiểu anh thấy so với mấy ngôn ngữ khác thì python là bắt buộc trong ngành này), sql, AI/ML, Data
+- Học nếu em có hứng thú với Toán + XS thống kê. Hồi trước đi học thì anh thích mỗi dạng xác suất của toán, do nó thực tế vch
+- Ngành anh học Toán tin là trong 3 chuyên ngành là có ngành Khoa học dữ liệu luôn á. Có gì em tham khảo nhóm ngành Toán hoặc Toán tin của a ở HCMUS cũng được
+
+### AI
+- Này chắc em tự tìm hiểu =))) Math + CS + Statistics
+- Bản thân anh thì anh thấy học ngành này nó khá kiểu "bắt trend". Do AI đang là tâm điểm, nó phát triển nhanh quá. Em học thì em phải cập nhật kiến thức liên tục luôn
+- Học về chủ yếu là ML, có mấy ngành có dạy mấy chuyên ngành như computer vision,...
+- Điểm cao thì vcl luôn. Không có giải quốc gia quốc tế thì thủ khoa cũng phải khóc
+
+### Computer Engineering
+- Anh tiếc cái ngành này nè =)))) Đm điểm UIT nó ngon ăn vch thế mà anh kg đặt (Mà có đặt thì cũng đậu toán tin trước, ngộ)
+- Nó khá kết hợp hay á =))) Kiểu CS + EE (kĩ thuật điện điện tử). Là em học cả về Software + Hardware luôn
+- Em học về Embedded, C++, OS, DSA,... khá chung chung
+- Nếu em thích kiểu robotics, IoT, chip thì ngành này khá ngon. Nó ngon nữa là ở chỗ điểm nó thực tế, vào được. Như UIT anh dư đâu đó 15 điểm trên thang 100 á
+
+### Tới hardware thuần thì có Embedded Systems
+- Học về microcontroller (esp32, arduino,...), C++, firmware, mấy cái mạch nói chung @@
+- Như Computer Engineering nma nó thuần về code C++, phần cứng luôn, code thì C++ là chủ yếu
+- Em thích thì nghịch thử cũng được. Chuẩn bị tầm 400-600k là đủ để em làm 1 con RC car bằng esp32/arduino á. Anh từng làm 3 con rùi =))))
+
+### Cybersecurity
+- network, crypto, OS, web security
+- Bên HCMUS có clb cybersecurity á em =)))) hardcore về linux vãi
+- Nếu em xem Mr.Robot mà em thấy hay thì cái này là chân lý của cuộc đời e
+
+### Robotics Engineering
+- Này nếu có chọn học thì cố HCMUT nha =))))
+- Cơ khí + Điện điện tử + Nhúng + CS + AI
+- Nó khá toàn năng á. Xu hướng AI bây giờ mới chuyển dịch sang Physical AI nữa
+
+---
