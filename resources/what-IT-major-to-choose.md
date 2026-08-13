@@ -1,4 +1,4 @@
-# VIETNAMESE VERSION
+# VIETNAMESE VERSION (ENGLISH VERSION BELOW)
 ---
 ## NHÓM NGÀNH LIÊN QUAN TỚI MÁY TÍNH
 - Trước khi đào sâu vào chọn ngành nào thì em phải biết máy tính có bao nhiêu ngành (hoặc có mấy ngành nó ít hot hơn thì anh không biết luôn =))) )
