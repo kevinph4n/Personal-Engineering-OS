@@ -15,4 +15,11 @@
 
 ---
 
+## Macbook Neo Series
+- 8/256 or 8/512 and they are affordable
+- However, for engineers/CS Students/STEM, 8gb ram is considered pretty low. They are not born for tech thing.
+- For movie, reading papers, etc, this is just perfect and enough. Actually pretty good cuz its macbook after all.
+
+---
+
 ## 
