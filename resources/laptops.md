@@ -45,6 +45,13 @@
 
 ---
 
-## 
+## Gigabyte
+- "Don't buy Gigabyte laptops just because they have good specs at a low price"
+- "I got the g5 with the i5-10500H, absolutely misarable experience, insanely high temps on both cpu and gpu (constantly throttling) even with repastes and undervolting, and random crashes with heavier games."
+- Yah the same goes to this. I would never.
+
+---
+
+##
 
 
