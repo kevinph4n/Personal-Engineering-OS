@@ -7,4 +7,12 @@
 
 ---
 
+## Asus Vivobook
+- Zenbook downgraded version (I once used an UX425EA zenbook, i know ball)
+- For models like Vivobook 14, 15, 16 -> Low battery (~42Wh)
+- Vivobook S14, S16 -> I suggest those cuz 70Wh battery (Damnn), and good chips (U5 225H, U7 255H,...)
+- Looks minimal, approved (not rlly a minimalistic fan but for laptop, hell yeh) (i still love panasonic LARPtop tho)
+
+---
+
 ## 
