@@ -1,3 +1,5 @@
+# PROGRAMMING LAPTOPS
+
 ## Thinkpad T series
 - Number 1 choice as always
 - If they are available with a good price, just do it
