@@ -28,3 +28,12 @@
 - No just dont, most of them are just straight trash.
 
 ---
+
+## Macbook Air/Pro
+- Basically one of the best for everything (good quality, well-built, its OS)
+- Yeah also the most expensive.
+- Can cost u ur life saving.
+
+---
+
+##
