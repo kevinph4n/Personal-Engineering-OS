@@ -36,4 +36,15 @@
 
 ---
 
-##
+## MSI
+- So i've heard that their builds are trash.
+- Just "Never buy the cheapest series like Katana.". Bad hinges, bad screen.
+- And "Never ever buy a msi laptop. Biggest mistake of my life. Utterly garbage build quality. Lowest quality hardware."
+- However, "Only the higher end Raider / Vector / Titan have solid build quality."
+- Yah i would never buy one of these if i got some money iykyk.
+
+---
+
+## 
+
+
