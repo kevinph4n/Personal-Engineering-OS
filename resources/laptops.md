@@ -22,4 +22,7 @@
 
 ---
 
-## 
+## Dell 14 / Dell 15 / Dell Inspiron (with Chip U)
+- No just dont, most of them are just straight trash.
+
+---
