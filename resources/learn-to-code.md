@@ -6,13 +6,14 @@
 
 ### First, Learn the logical thinking
 Normally, when facing a problem, most ppl would say "Oke let's learn some syntax first". Nah, the proper way to approach a problem is by approaching them step-by-step:
-- for example:
-'''
-nhập toán
-nhập văn
-nhập anh
+- for example: "pseudo-syntax"
+```
+Input Math
+Input Literature
+Input English
 
-average = (toán + văn + anh) / 3
+average = (Math + Literature + English) / 3
 
 in average
-'''
+
+```
