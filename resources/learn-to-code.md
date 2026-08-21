@@ -77,4 +77,12 @@ basic OOP
 ---
 
 ### 2.4. Learn to Debug
--
+
+---
+
+### 2.5. Getting Advanced / Professional (Ur Speciality)
+- It's not: Python -> Advanced Python -> Super Advanced Python -> Boss-level Python -> God-level Python
+- But (for example Robotics): Python fundamentals -> Git -> CLI projects -> DSA -> Linux -> C/C++ -> Embedded -> AI/ML -> Robots
+
+---
+
