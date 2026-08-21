@@ -2,7 +2,7 @@
 
 ---
 
-## 1. How to actually learn coding?
+## 1. Programming
 
 - You actually don't need 47 hours of tutorial to answer this question because basically: Learning to code ins't about learning syntax by heart.
 
@@ -41,3 +41,26 @@ And for **The debugging stage:**
 > What's the data type?
 > What have gone wrong?
 ### **THAT'S CODING**
+
+---
+
+## 2. How to actually learn programming?
+
+- Learn -> Build -> Get stuck -> Debug -> Learn -> Build -> ...
+
+### 2.1. Building fundamentals
+- For example with Python:
+```
+variables
+data types
+basic DSA
+modules
+basic Git
+basic OOP
+...
+```
+## THE AIM IS TO POSSESS THE ABILITY TO USE PYTHON TO SOLVE THE PROBLEM. NOT "yeh i know 69% of Python"
+
+---
+
+### 2.2.
