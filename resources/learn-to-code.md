@@ -10,7 +10,7 @@
 
 ### 1.1. Problem -> Logic -> Code -> Debug
 Normally, when facing a problem, most ppl would say "Oke let's learn some syntax first". Nah, the proper way to approach a problem is by approaching them step-by-step:
-- for example, **the logic to average 3 subjects' scores would be:**
+- for example, **The logic to average 3 subjects' scores would be:**
 ```
 Input Math
 Input Literature
@@ -22,7 +22,7 @@ in average
 
 ```
 
-And **the CODE would be:**
+And **The coding stage would be:**
 
 ```
 math = float(input("Math: "))
@@ -34,7 +34,7 @@ average = (math + literature + english) / 3
 print(average)
 ```
 
-And for *The debugging stage:**
+And for **The debugging stage:**
 - If an error occured like "ValueError"
 - Then start investigating:
 > What's the input?
