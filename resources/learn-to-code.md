@@ -71,4 +71,10 @@ basic OOP
 
 ---
 
-### 2.3.
+### 2.3. Google the knowledge, not the whole code
+- for example: how to move files in Python,...
+
+---
+
+### 2.4. Learn to Debug
+-
