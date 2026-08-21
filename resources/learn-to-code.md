@@ -1,1 +1,18 @@
+## roadmap.sh -> where you can find what to learn for ur specific needs
 
+## How to actually learn coding?
+
+- You actually don't need 47 hours of tutorial to answer this question because basically: Learning to code ins't about learning syntax by heart.
+
+### First, Learn the logical thinking
+Normally, when facing a problem, most ppl would say "Oke let's learn some syntax first". Nah, the proper way to approach a problem is by approaching them step-by-step:
+- for example:
+'''
+nhập toán
+nhập văn
+nhập anh
+
+average = (toán + văn + anh) / 3
+
+in average
+'''
