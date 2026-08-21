@@ -2,15 +2,15 @@
 
 ---
 
-## How to actually learn coding?
+## 1. How to actually learn coding?
 
 - You actually don't need 47 hours of tutorial to answer this question because basically: Learning to code ins't about learning syntax by heart.
 
 ---
 
-### Problem -> Logic -> Code -> Debug
+### 1.1. Problem -> Logic -> Code -> Debug
 Normally, when facing a problem, most ppl would say "Oke let's learn some syntax first". Nah, the proper way to approach a problem is by approaching them step-by-step:
-- for example: "pseudo-syntax"
+- for example, *the logic to average 3 subjects' scores* would be:
 ```
 Input Math
 Input Literature
@@ -21,7 +21,9 @@ average = (Math + Literature + English) / 3
 in average
 
 ```
-then as time goes by, it becomes:
+
+And *the CODE would be:*
+
 ```
 math = float(input("Math: "))
 literature = float(input("Literature: "))
