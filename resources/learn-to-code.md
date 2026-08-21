@@ -18,11 +18,12 @@ in average
 
 ```
 then as time goes by, it becomes:
+```
+math = float(input("Math: "))
+literature = float(input("Literature: "))
+english = float(input("English: "))
 
-`math = float(input("Math: ")) `
-`literature = float(input("Literature: "))`
-`english = float(input("English: "))`
+average = (math + literature + english) / 3
 
-`average = (math + literature + english) / 3`
-
-`print(average)`
+print(average)
+```
