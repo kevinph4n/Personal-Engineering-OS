@@ -63,4 +63,12 @@ basic OOP
 
 ---
 
-### 2.2.
+### 2.2. Building beginner projects
+- CLI calculator
+- CLI to-do list
+- expense tracker
+- file organizer (for example .jpg -> images/ )
+
+---
+
+### 2.3.
