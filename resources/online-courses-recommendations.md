@@ -1,0 +1,12 @@
+## 1. (Vibe-coding | Free Google AI Pro account for 3 months) Google AI Professional Certificate
+- you can easily finish this in a day
+- provides you 3 months of google ai pro for free (i mean yeh basically u paid for the course. still, this is a bargain).
+> yeh attend this if u want 3 months of google ai pro. the rest of the course is kinda obvious and u don't have to focus on the lessons
+
+## 2. (C++) Learn C++ Programming -Beginner to Advance- Deep Dive in C++ - Abdul Bari
+- Abdul Bari is one of those legends who teach really well
+- This is one of his paid course on Udemy (exclusively)
+- Very good i must say. One con is that his accent could be hard to follow to some people, that does not imply to me btw.
+
+## 3. (C++ | DSA
+
