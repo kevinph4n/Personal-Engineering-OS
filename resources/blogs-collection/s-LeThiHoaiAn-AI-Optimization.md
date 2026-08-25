@@ -10,6 +10,12 @@
 
 ---
 
-## Terminologies
-- Optimization
+## I. Terminologies
+- Optimization: stems form 1947-1950 | at the core of the algorithms is optimization | the mathematical engine (containing Learning, Generation, Prediction, Decision)
+> minx f(x) with x being the decision vaariables, f(x) = objective/loss, x = feasible set
+> among all possible solutions, which one is the best?
+
+---
+
+## 
 
