@@ -4,13 +4,14 @@
 
 ---
 ## TABLE OF CONTENTS
-### I. Optimization of AI
-### II. AI and Optimization
-### III. Recent advances and future directions
-
+```
+> Optimization of AI
+> AI and Optimization
+> Recent advances and future directions
+```
 ---
 
-## I. Terminologies
+## Terminologies
 - Optimization: stems form 1947-1950 | at the core of the algorithms is optimization | the mathematical engine (containing Learning, Generation, Prediction, Decision)
 ```
  minx f(x) with x being the decision vaariables, f(x) = objective/loss, x = feasible set
@@ -36,9 +37,8 @@ Training Data: (xi; yi) -> Model + learning: the optimization algorithm -> After
 - **DC programming (Different of Convex) and DCA (1985 ->) (flexible for robust losses, regularizers)**
 - DC Learning
 > example: Sparse optimization,...
+- Bayesian DC (GenAI)
 
 ---
-
-## Nonconvex Optimization in AI by DCA
 
 
