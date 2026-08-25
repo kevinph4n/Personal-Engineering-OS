@@ -29,9 +29,7 @@ Training Data: (xi; yi) -> Model + learning: the optimization algorithm -> After
 - Convex to Nonconvex Optimization
 > Modern AI is fundamentally nonconvex
 <img width="1098" height="455" alt="image" src="https://github.com/user-attachments/assets/2ee7e149-265a-4f11-9254-54974c501eb8" />
-```
-Convex optimization has a single, globally optimal solution, whereas non-convex optimization contains multiple local peaks and valleys with no guarantee of finding the global best
-```
+-> Convex optimization has a single, globally optimal solution, whereas non-convex optimization contains multiple local peaks and valleys with no guarantee of finding the global best
 - Stochastic Optimization: random or involving a process that depends on probability and chance
 - Gradient methods
 - Proximal methods
