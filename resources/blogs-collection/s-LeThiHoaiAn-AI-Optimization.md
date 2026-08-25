@@ -24,7 +24,21 @@
 > example 1: Supervised Regression
 Training Data: (xi; yi) -> Model + learning: the optimization algorithm -> After Learning
 ```
+- Optimization in Deep Learning
+- Convex to Nonconvex Optimization
+> Modern AI is fundamentally nonconvex
+<img width="1098" height="455" alt="image" src="https://github.com/user-attachments/assets/2ee7e149-265a-4f11-9254-54974c501eb8" />
+- Stochastic Optimization: random or involving a process that depends on probability and chance
+- Gradient methods
+- Proximal methods
+- Coordinate/Block methods
+- Derivative-free methods
+- **DC programming (Different of Convex) and DCA (1985 ->) (flexible for robust losses, regularizers)**
+- DC Learning
+> example: Sparse optimization,...
+
 ---
 
-## 
+## Nonconvex Optimization in AI by DCA
+
 
