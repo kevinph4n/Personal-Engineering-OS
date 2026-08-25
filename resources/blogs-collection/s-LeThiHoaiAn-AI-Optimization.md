@@ -44,4 +44,10 @@ Training Data: (xi; yi) -> Model + learning: the optimization algorithm -> After
 ## Future Directions: From Learning to Intelligent Action
 - The connections between Learning - Generation - Decision - Planning - Action
 
+## Recent advances
+### What if we generate more solutions?
+- Gen AI: Generate plausible solutions (Exploit)
+- Optimization: Find the best solution (Explore)
+- Generative Optimization **(The Feedback Loop)**: Generate -> Optimize -> Evaluate -> Select -> Learn -> Repeat -> Generate better candidates -> Optimization improves the solutions.
+
 
