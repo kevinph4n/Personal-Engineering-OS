@@ -39,5 +39,9 @@ Training Data: (xi; yi) -> Model + learning: the optimization algorithm -> After
 > example: Sparse optimization,...
 - Bayesian DC (GenAI)
 
+---
+
+## Future Directions: From Learning to Intelligent Action
+- The connections between Learning - Generation - Decision - Planning - Action
 
 
