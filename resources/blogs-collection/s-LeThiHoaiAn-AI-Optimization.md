@@ -50,4 +50,6 @@ Training Data: (xi; yi) -> Model + learning: the optimization algorithm -> After
 - Optimization: Find the best solution (Explore)
 - Generative Optimization **(The Feedback Loop)**: Generate -> Optimize -> Evaluate -> Select -> Learn -> Repeat -> Generate better candidates -> Optimization improves the solutions.
 
+### AI -> Optimization?
+- Reinforcement learning is just not it. The core of optimization is that: It doesnt depend on data to optimize the algorithms
 
