@@ -5,9 +5,9 @@
 ---
 ## TABLE OF CONTENTS
 ```
-> Optimization of AI
-> AI and Optimization
-> Recent advances and future directions
+Optimization of AI
+AI and Optimization
+Recent advances and future directions
 ```
 ---
 
