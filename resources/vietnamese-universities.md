@@ -16,14 +16,18 @@
 - will probably be #1~2 in Semiconductor in 2 years in Vietnam
 ---
 
-### HUST (Ha Noi University of Science and Technology)
+### HUST (Hanoi University of Science and Technology)
 - #1 IT in Vietnam (arguably)
 - #1~2 AI in Vietnam (still, arguably but probably)
 - biggest influence
 - robotics is strong here too
 ---
 
-### Posts and Telecommunications Institute of Technology (PTIT - Ha Noi)
+### PTIT (Posts and Telecommunications Institute of Technology - Hanoi)
+-
+---
+
+### VNUHN - UET (University of Engineering and Technology)
 
 
 
