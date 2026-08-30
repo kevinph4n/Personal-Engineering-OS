@@ -10,4 +10,9 @@
 
 ## 3. (Python) Python for Data Science, AI & Development (IBM - Joseph Santarcangelo)
 https://www.coursera.org/learn/python-for-applied-data-science-ai
+- Probably the best python course on coursera
+- You can probably finish this within 2 weeks
+- Then u may learn the "Data analysis with Python" by IBM for further learning experience
+
+## 4. (VCS & Git) Version Control (Meta)
 
