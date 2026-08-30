@@ -15,4 +15,10 @@ https://www.coursera.org/learn/python-for-applied-data-science-ai
 - Then u may learn the "Data analysis with Python" by IBM for further learning experience
 
 ## 4. (VCS & Git) Version Control (Meta)
+https://www.coursera.org/learn/introduction-to-version-control
+- Teaches by Meta
+- Can easily be finished in 3 days
+- Good videos & tests
+- May this the only Git course you need
 
+## 5.
