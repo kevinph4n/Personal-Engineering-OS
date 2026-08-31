@@ -23,4 +23,4 @@ https://www.coursera.org/learn/introduction-to-version-control
 
 ## 5. (Python & Data Science) Data Analysis with Python (IBM)
 
-## 6. (Python & Data Science)
+## 6. (Python & Data Science) Data Visualization with Python (IBM)
