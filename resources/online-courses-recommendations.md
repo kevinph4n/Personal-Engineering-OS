@@ -24,3 +24,5 @@ https://www.coursera.org/learn/introduction-to-version-control
 ## 5. (Python & Data Science) Data Analysis with Python (IBM)
 
 ## 6. (Python & Data Science) Data Visualization with Python (IBM)
+
+## 7. (Calculus & Python) Applied Calculus with Python (Johns Hopkins University)
