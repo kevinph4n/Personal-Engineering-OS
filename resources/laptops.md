@@ -10,6 +10,13 @@
 
 ---
 
+## Thinkpad X series
+- If you prefer mobility
+- Rlly good specs
+- However, i've heard that there's some over-heating issues by the community due to its slim build, its just dont match to its specs and materials.
+
+---
+
 ## Asus Vivobook
 - Zenbook downgraded version (I once used an UX425EA zenbook, i know ball)
 - For models like Vivobook 14, 15, 16 -> Low battery (~42Wh)
