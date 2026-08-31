@@ -26,3 +26,10 @@ https://www.coursera.org/learn/introduction-to-version-control
 ## 6. (Python & Data Science) Data Visualization with Python (IBM)
 
 ## 7. (Calculus & Python) Applied Calculus with Python (Johns Hopkins University)
+
+## 8. (Python & Flask) Developing AI Applications with Python and Flask (IBM)
+
+---
+
+# Then start focusing on building REAL, BIG projects (cuz u just have to build mini projects while learning courses and thats a must)
+# Or start learning DSA, grind Codeforces for competitive programming
