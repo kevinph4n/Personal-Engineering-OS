@@ -21,4 +21,6 @@ https://www.coursera.org/learn/introduction-to-version-control
 - Good videos & tests
 - May this the only Git course you need
 
-## 5.
+## 5. (Python & Data Science) Data Analysis with Python (IBM)
+
+## 6. (Python & Data Science)
