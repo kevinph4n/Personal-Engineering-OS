@@ -22,7 +22,7 @@ https://www.coursera.org/learn/introduction-to-version-control
 - Can easily be finished in 3 days
 - Good videos & tests
 - May this the only Git course you need
-<img width="1280" height="989" alt="image" src="https://github.com/user-attachments/assets/7aa78b3c-ad93-4d49-af3f-0e6b48fcba56" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/7aa78b3c-ad93-4d49-af3f-0e6b48fcba56" />
 
 ## 5. (Python & Data Science) Data Analysis with Python (IBM)
 
