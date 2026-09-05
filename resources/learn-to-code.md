@@ -17,3 +17,4 @@ https://github.com/kevinph4n/Personal-Engineering-OS/blob/main/resources/online-
 ### Git/GitHub
 - Still the foundations and indispensable skills for developers in 2026-2027
 - You can literally learn git clone, git add, git commit, git push, git pull in 3 hours and then just use them until its in ur workflow
+- GitHub: literally ur CV in this field
