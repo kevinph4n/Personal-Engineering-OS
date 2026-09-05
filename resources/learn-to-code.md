@@ -11,3 +11,5 @@ https://github.com/kevinph4n/Personal-Engineering-OS/blob/main/resources/online-
 ### Python
 - Data analyst, Data scientist, AI/ML,...
 - Great for beginners because its syntax is easy to read and understand
+- Would never outdate cuz of its wide usage in this economy
+- suggested course: Python for Data Science, AI & Development by IBM
