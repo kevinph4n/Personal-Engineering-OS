@@ -13,3 +13,7 @@ https://github.com/kevinph4n/Personal-Engineering-OS/blob/main/resources/online-
 - Great for beginners because its syntax is easy to read and understand
 - Would never outdate cuz of its wide usage in this economy
 - suggested course: Python for Data Science, AI & Development by IBM
+
+### Git/GitHub
+- Still the foundations and indispensable skills for developers in 2026-2027
+- You can literally learn git clone, git add, git commit, git push, git pull in 3 hours and then just use them until its in ur workflow
