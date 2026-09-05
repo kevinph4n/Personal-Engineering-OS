@@ -8,3 +8,5 @@ https://github.com/kevinph4n/Personal-Engineering-OS/blob/main/resources/online-
 - Just look at the reality bro, claude can replace a junior programming team.
 - So the question and challenge here is: Why couldn't Claude replace you too? And how will you avoid being replaced?
 
+### Python
+- Data analyst, Data scientist, AI/ML,...
