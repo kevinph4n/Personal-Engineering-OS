@@ -1,4 +1,4 @@
-#### Team Greeting Template:"Good [morning/afternoon] judges and everyone, we are team [Team Name]. Today, we are here to tackle a critical issue in [Target Industry/Field].
+#### Team Greeting Template:"Good [morning/afternoon] judges and everyone, we are team <Team Name>. Today, we are here to tackle a critical issue in <Target Industry/Field>.
 ---
 ## **PHASE 1: The Hook, Problem & Demo (~3 minutes)**
 #### 1/ **The Hook (Stats/Fact)**: Start with 1-2 shocking statistics or a pressing issue to grab the judges' attention in the very first seconds
