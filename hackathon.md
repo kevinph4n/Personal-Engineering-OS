@@ -1,4 +1,4 @@
-#### Team Greeting Template:"Good [morning/afternoon] judges and everyone, we are team <Team Name>. Today, we are here to tackle a critical issue in <Target Industry/Field>.
+#### Team Greeting Template:"Good [morning/afternoon] judges and everyone, we are team [Team Name]. Today, we are here to tackle a critical issue in [Target Industry/Field].
 ---
 ## **PHASE 1: The Hook, Problem & Demo (~3 minutes)**
 #### 1/ **The Hook (Stats/Fact)**: Start with 1-2 shocking statistics or a pressing issue to grab the judges' attention in the very first seconds
@@ -21,4 +21,4 @@
 ---
 ## **PHASE 5: The Wrap-up & Ending (~30 seconds)**
 #### 1/ **Full Circle**: Bring the presentation back to the exact statistic or "pain point" you mentioned in the very first second of the pitch.The Vision Statement: Deliver an inspiring punchline about the core value and long-term impact your project brings to society or the industry
-#### 2/ **A clean, professional sign-off: "And we are team <Team name>. Thank you everybody for your time and attention."**
+#### 2/ **A clean, professional sign-off: "And we are team [Team name]. Thank you everybody for your time and attention."**
