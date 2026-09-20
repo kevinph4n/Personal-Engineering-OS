@@ -1,3 +1,13 @@
+## DATA #1: Python for Data Science, AI & Development (IBM)
+- Basic python, no DSA
+- Introduction to Pandas, NumPy
+## DATA #2: Data Analysis with Python (IBM)
+- Data preprocessing, cleaning, retrieving,...
+- Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn
+## DATA #3: Databases and SQL for Data Science with Python (IBM)
+
+
+
 ## 1. (Vibe-Coding | Free Google AI Pro account for 3 months) Google AI Professional Certificate
 - you can easily finish this in a day
 - provides you 3 months of google ai pro for free (i mean yeh basically u paid for the course. still, this is a bargain).
