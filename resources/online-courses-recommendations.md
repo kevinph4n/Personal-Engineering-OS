@@ -1,3 +1,9 @@
+## Git: Version Control (Meta)
+- https://www.coursera.org/learn/introduction-to-version-control
+- add, commit, pull, push,...
+- unix commands for linux like mkdir, touch,...
+---
+# DATA ENGINEER ROADMAP
 ## DATA #1: Python for Data Science, AI & Development (IBM)
 - Basic python, no DSA
 - Introduction to Pandas, NumPy
@@ -6,7 +12,7 @@
 - Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn
 ## DATA #3: Databases and SQL for Data Science with Python (IBM)
 ## DATA #4: Machine Learning with Python (IBM)
-
+---
 
 ## Others #1: (Free Google AI Pro account for 3 months) Google AI Professional Certificate
 - provides you 3 months of google ai pro for free (i mean yeh basically u paid for the course. still, this is a bargain).
