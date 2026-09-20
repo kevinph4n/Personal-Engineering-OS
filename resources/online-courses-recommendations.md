@@ -8,10 +8,10 @@
 # **DATA/AI ENGINEER ROADMAP**
 ## **DATA #1: Python for Data Science, AI & Development (IBM) (Completed)**
 - Basic python, no DSA
-- Introduction to Pandas, NumPy
+- **Introduction** to Pandas, NumPy (basic)
 ## **DATA #2: Data Analysis with Python (IBM) (Completed)**
 - Data preprocessing, cleaning, retrieving,...
-- Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn
+- Scikit-learn (basic), NumPy (advanced), Pandas (advanced), Matplotlib (basic), Seaborn (basic)
 ## **DATA #3: Data Visualization with Python (IBM)**
 ## **DATA #4: Databases and SQL for Data Science with Python (IBM) (~)**
 ## **DATA #5: Machine Learning with Python (IBM) (~)**
