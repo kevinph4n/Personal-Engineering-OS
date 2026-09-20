@@ -8,11 +8,9 @@
 
 
 
-## 1. (Vibe-Coding | Free Google AI Pro account for 3 months) Google AI Professional Certificate
-- you can easily finish this in a day
+## Others #1: (Free Google AI Pro account for 3 months) Google AI Professional Certificate
 - provides you 3 months of google ai pro for free (i mean yeh basically u paid for the course. still, this is a bargain).
-> yeh attend this if u want 3 months of google ai pro. the rest of the course is kinda obvious and u don't have to focus on the lessons
-<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/73750285-f7f7-46dc-9c22-daaab3389ce2" />
+- yeh attend this if u want 3 months of google ai pro. the rest of the course is kinda obvious and u don't have to focus on the lessons
 
 
 ## 2. (C++) Learn C++ Programming -Beginner to Advance- Deep Dive in C++ (Udemy - Abdul Bari)
