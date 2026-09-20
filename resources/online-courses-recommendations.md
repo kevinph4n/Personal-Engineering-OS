@@ -3,15 +3,15 @@
 - add, commit, pull, push,...
 - unix commands for linux like mkdir, touch,...
 ---
-# DATA ENGINEER ROADMAP
-## DATA #1: Python for Data Science, AI & Development (IBM)
+# **DATA ENGINEER ROADMAP**
+## **DATA #1: Python for Data Science, AI & Development (IBM)**
 - Basic python, no DSA
 - Introduction to Pandas, NumPy
-## DATA #2: Data Analysis with Python (IBM)
+## **DATA #2: Data Analysis with Python (IBM)**
 - Data preprocessing, cleaning, retrieving,...
 - Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn
-## DATA #3: Databases and SQL for Data Science with Python (IBM)
-## DATA #4: Machine Learning with Python (IBM)
+## **DATA #3: Databases and SQL for Data Science with Python (IBM)**
+## **DATA #4: Machine Learning with Python (IBM)**
 ---
 
 ## Others #1: (Free Google AI Pro account for 3 months) Google AI Professional Certificate
