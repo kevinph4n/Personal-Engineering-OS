@@ -19,6 +19,8 @@
 
 ---
 
-# **III.
+# **III. Data Splitting & Cross-Validation**
+### **Data Splitting**: 80-20 or 70-30 (Train and Test)
+
 
 
