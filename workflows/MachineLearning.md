@@ -8,5 +8,17 @@
 ---
 
 # **II. Data Preprocessing & Feature Engineering**
+### **Data Cleaning**
+* 1/ **Handling Missing Values: Deletion (dropna) or Imputation (fillna)** (and maybe KNN & Regression)
+* 2/ **One-hot Encoding: pd.get_dummies(df, drop_first = True). 0 1**
+* 3/ **Label Encoding: 0 1 2**
+### **Feature Scaling**
+* 4/ **Standardization (StandardScaler)** (is compulsory for SVM, Logistic Regression, and Neural Networks models)
+* 5/ **Normalization / Min-Max Scaling (MinMaxScaler)**
+* 6/ **Data Transformation: Logarithmic Transformation or Box-Cox Transformation to let data be normal distribution. Increasing Accuracy for Linear Regression or models that depend on deviation**
+
+---
+
+# **III.
 
 
