@@ -1,26 +1,21 @@
-# **I. Define the Problem (To decide which math problem to solve)**
-* 1/ **Regression: RMSE - Root Mean Squared Error and $R^2$ Score** (Explain variance)
-* 2/ **Classification: F1-Score and Confusion Matrix** (especially indispensable when it comes to biased data set)
-* 3/ **Clustering: Silhouette Score and Davies-Bouldin Index**
+# ** I/ Data**:
+## **1/ Load Data & EDA (Khám phá dữ liệu)**
+- libraries: pandas, matplotlib, seaborn
+- commonly used functions:
+```
+read data: df = pd.read_csv('data.csv')
 
-<img width="550" height="330" alt="image" src="https://github.com/user-attachments/assets/2ead61a3-41e9-42c3-83b1-a73d72b94a37" />
+overview: df.head(), df.info(), df.describe()
 
----
+missing values: df.isnull().sum()
+```
+## **2/ Data Preprocessing & Cleaning**
+- libraries: sklearn.preprocessing, sklearn.impute
+- common used functions:
+```
+missing values: SimpleImputer(strategy='mean')
 
-# **II. Data Preprocessing & Feature Engineering**
-### **Data Cleaning**
-* 1/ **Handling Missing Values: Deletion (dropna) or Imputation (fillna)** (and maybe KNN & Regression)
-* 2/ **One-hot Encoding: pd.get_dummies(df, drop_first = True). 0 1**
-* 3/ **Label Encoding: 0 1 2**
-### **Feature Scaling**
-* 4/ **Standardization (StandardScaler)** (is compulsory for SVM, Logistic Regression, and Neural Networks models)
-* 5/ **Normalization / Min-Max Scaling (MinMaxScaler)**
-* 6/ **Data Transformation: Logarithmic Transformation or Box-Cox Transformation to let data be normal distribution. Increasing Accuracy for Linear Regression or models that depend on deviation**
+encode categorical data into numerical formats: LabelEncoder(), OneHotEncoder()
 
----
-
-# **III. Data Splitting & Cross-Validation**
-### **Data Splitting**: 80-20 or 70-30 (Train and Test)
-
-
-
+normalize/standardize data scales (crucial for models like SVM, KNN, or Neural Networks): StandardScaler() or MinMaxScaler()
+```
