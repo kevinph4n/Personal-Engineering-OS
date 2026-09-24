@@ -1,5 +1,5 @@
 # ** I/ Data**:
-## **1/ Load Data & EDA (Khám phá dữ liệu)**
+## **1/ Load Data & EDA**
 - libraries: pandas, matplotlib, seaborn
 - commonly used functions:
 ```
